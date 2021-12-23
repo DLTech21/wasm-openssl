@@ -9,3 +9,5 @@ emmake make -j 1 build_generated libssl.a libcrypto.a
 编译参数
 
 https://blog.csdn.net/qq_21438461/article/details/107719151
+
+https://blog.csdn.net/weixin_39849762/article/details/116675187
